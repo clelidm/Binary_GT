@@ -1,2 +1,2 @@
 # Binary Gauge Transformations
-Code for sampling binary gauge transformation 64bits
+Old code from 2017 for random sampling of binary gauge transformations. Structure available: 64 bits and binary vectors.
